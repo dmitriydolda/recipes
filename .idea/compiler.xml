@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.16/6dc192c7f93ec1853f70d59d8a6dcf94eb42866/lombok-1.18.16.jar" />
+        </processorPath>
+        <module name="Recipes.Topics-Switch_statement-Theory.main" />
+        <module name="Recipes.Topics-toString__-Time_as_a_string.main" />
+        <module name="Recipes.Topics-LocalDateTime-Add_11_hours_and_print_the_date.test" />
+        <module name="Recipes.Topics-The_List_interface-Backward_indexes.main" />
+        <module name="Recipes.Topics-LocalDateTime-Subtracting_hours_and_adding_minutes.test" />
+        <module name="Recipes.Topics-Relational_operators-Groundhogs_at_a_party.main" />
+        <module name="Recipes.Topics-The_main_method-Theory.test" />
+        <module name="Recipes.Topics-LocalDateTime-Merging_date-time_instances.test" />
+        <module name="Recipes.Topics-ArrayList-Theory.test" />
+        <module name="Recipes.Topics-LocalDateTime-Adding_N_minutes.main" />
+        <module name="Recipes.Topics-LocalDate-2_weeks_after.test" />
+        <module name="Recipes.Topics-LocalTime-Theory.test" />
+        <module name="Recipes.Topics-The_Map_interface-Creating_a_map.test" />
+        <module name="Recipes.Topics-Comments-Theory.test" />
+        <module name="Recipes.Topics-The_List_interface-Greek_letters.main" />
+        <module name="Recipes.Topics-toString__-Account.test" />
+        <module name="Recipes.Topics-ArrayList-Concat_positive_numbers.test" />
+        <module name="Recipes.Topics-LocalDateTime-Whole_hours_between_two_date-time_pairs.test" />
+        <module name="Recipes.Topics-The_Set_interface-Theory.main" />
+        <module name="Recipes.Topics-LocalDateTime-Theory.test" />
+        <module name="Recipes.Topics-Types_and_variables-Theory.main" />
+        <module name="Recipes.Topics-LocalTime-Seconds_between_two_time_points.test" />
+        <module name="Recipes.Topics-Exception_handling-Theory.test" />
+        <module name="Recipes.Topics-Increment_and_decrement-Decrement_all.test" />
+        <module name="Recipes.Topics-The_List_interface-Theory.main" />
+        <module name="Recipes.util.main" />
+        <module name="Recipes.Topics-LocalDate-2_weeks_after.main" />
+        <module name="Recipes.Topics-LocalTime-Seconds_between_two_time_points.main" />
+        <module name="Recipes.Topics-LocalDateTime-Whole_hours_between_two_date-time_pairs.main" />
+        <module name="Recipes.Topics-The_List_interface-Count_the_value_occurrences.test" />
+        <module name="Recipes.Topics-ArrayList-Theory.main" />
+        <module name="Recipes.Topics-LocalTime-Theory.main" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program.test" />
+        <module name="Recipes.Topics-LocalDateTime-Add_days_and_subtract_hours.test" />
+        <module name="Recipes.Topics-Switch_statement-Theory.test" />
+        <module name="Recipes.Topics-Switch_statement-Test_learners.test" />
+        <module name="Recipes.Topics-LocalDateTime-The_passed_hours_since_the_beginning_of_year.test" />
+        <module name="Recipes.Topics-The_Set_interface-Creating_a_set.test" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program.main" />
+        <module name="Recipes.Topics-Relational_operators-Groundhogs_at_a_party.test" />
+        <module name="Recipes.Topics-Switch_statement-Direction.test" />
+        <module name="Recipes.Topics-LocalDate-Theory.main" />
+        <module name="Recipes.Topics-LocalDateTime-Adding_N_minutes.test" />
+        <module name="Recipes.Topics-toString__-Theory.main" />
+        <module name="Recipes.Topics-Relational_operators-Theory.test" />
+        <module name="Recipes.util.test" />
+        <module name="Recipes.Topics-Exception_handling-Theory.main" />
+        <module name="Recipes.Topics-LocalDateTime-Theory.main" />
+        <module name="Recipes.Topics-ArrayList-Concat_positive_numbers.main" />
+        <module name="Recipes.Topics-ArrayList-Creating_list.test" />
+        <module name="Recipes.Topics-Builder-Geek_Builder.main" />
+        <module name="Recipes.Topics-The_Set_interface-Creating_a_set.main" />
+        <module name="Recipes.Topics-Builder-Theory.main" />
+        <module name="Recipes.Topics-LocalDate-Theory.test" />
+        <module name="Recipes.Topics-Increment_and_decrement-Decrement_all.main" />
+        <module name="Recipes.Topics-Comments-The_forgotten_comments.main" />
+        <module name="Recipes.Topics-The_List_interface-Count_the_value_occurrences.main" />
+        <module name="Recipes.Topics-The_Set_interface-Theory.test" />
+        <module name="Recipes.Topics-The_List_interface-Greek_letters.test" />
+        <module name="Recipes.Topics-Types_and_variables-Fill_the_declaration.test" />
+        <module name="Recipes.Topics-LocalDateTime-Add_days_and_subtract_hours.main" />
+        <module name="Recipes.Topics-toString__-Convert_vehicles_and_cars_to_string.main" />
+        <module name="Recipes.Topics-Increment_and_decrement-Theory.test" />
+        <module name="Recipes.Topics-LocalDateTime-Merging_date-time_instances.main" />
+        <module name="Recipes.Topics-Switch_statement-Direction.main" />
+        <module name="Recipes.Topics-The_main_method-Theory.main" />
+        <module name="Recipes.Topics-toString__-Users_as_strings.test" />
+        <module name="Recipes.Topics-toString__-Time_as_a_string.test" />
+        <module name="Recipes.Topics-The_List_interface-Backward_indexes.test" />
+        <module name="Recipes.Topics-LocalDateTime-Add_11_hours_and_print_the_date.main" />
+        <module name="Recipes.Topics-The_main_method-Print__We_are_robots_.test" />
+        <module name="Recipes.Topics-Exception_handling-Implement_DELETE_endpoint.main" />
+        <module name="Recipes.Topics-The_Map_interface-Theory.main" />
+        <module name="Recipes.Topics-Relational_operators-Theory.main" />
+        <module name="Recipes.Topics-The_main_method-Print__We_are_robots_.main" />
+        <module name="Recipes.Topics-Comments-The_forgotten_comments.test" />
+        <module name="Recipes.Topics-Comments-Theory.main" />
+        <module name="Recipes.Topics-Exception_handling-Implement_DELETE_endpoint.test" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes.test" />
+        <module name="Recipes.Topics-Increment_and_decrement-Theory.main" />
+        <module name="Recipes.Topics-Switch_statement-Test_learners.main" />
+        <module name="Recipes.Topics-toString__-Account.main" />
+        <module name="Recipes.Topics-toString__-Convert_vehicles_and_cars_to_string.test" />
+        <module name="Recipes.Topics-toString__-Theory.test" />
+        <module name="Recipes.Topics-LocalDateTime-The_passed_hours_since_the_beginning_of_year.main" />
+        <module name="Recipes.Topics-The_Map_interface-Creating_a_map.main" />
+        <module name="Recipes.Topics-The_Map_interface-Theory.test" />
+        <module name="Recipes.Topics-Types_and_variables-Fill_the_declaration.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes.main" />
+        <module name="Recipes.Topics-ArrayList-Creating_list.main" />
+        <module name="Recipes.Topics-Builder-Geek_Builder.test" />
+        <module name="Recipes.Topics-toString__-Users_as_strings.main" />
+        <module name="Recipes.Topics-Builder-Theory.test" />
+        <module name="Recipes.Topics-The_List_interface-Theory.test" />
+        <module name="Recipes.Topics-Types_and_variables-Theory.test" />
+        <module name="Recipes.Topics-LocalDateTime-Subtracting_hours_and_adding_minutes.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.20/18bcea7d5df4d49227b4a0743a536208ce4825bb/lombok-1.18.20.jar" />
+        </processorPath>
+        <module name="Recipes.Recipes-task.test" />
+        <module name="Recipes.Recipes-task.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>

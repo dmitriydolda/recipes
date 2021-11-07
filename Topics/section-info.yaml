@@ -1,0 +1,17 @@
+content:
+- Types and variables
+- Comments
+- Increment and decrement
+- Switch statement
+- Relational operators
+- The main method
+- toString()
+- ArrayList
+- The List interface
+- The Set interface
+- The Map interface
+- Exception handling
+- LocalDate
+- LocalTime
+- LocalDateTime
+- Builder

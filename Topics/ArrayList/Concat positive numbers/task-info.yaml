@@ -1,0 +1,49 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.ArrayList;
+    import java.util.Arrays;
+    import java.util.Scanner;
+    import java.util.stream.Collectors;
+
+    class ConcatPositiveNumbersProblem {
+
+        public static ArrayList<Integer> concatPositiveNumbers(ArrayList<Integer> l1, ArrayList<Integer> l2) {
+            return l1; // write your code here
+        }
+
+        /* Do not modify this method */
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+
+            ArrayList<Integer> list1 = readArrayList(scanner);
+            ArrayList<Integer> list2 = readArrayList(scanner);
+
+            ArrayList<Integer> result = concatPositiveNumbers(list1, list2);
+
+            result.forEach(n -> System.out.print(n + " "));
+        }
+
+        /* Do not modify this method */
+        private static ArrayList<Integer> readArrayList(Scanner scanner) {
+            return Arrays
+                    .stream(scanner.nextLine().split("\\s+"))
+                    .map(Integer::parseInt)
+                    .collect(Collectors.toCollection(ArrayList::new));
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3482#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 3. Runtime error\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\n8 11 -2 -3 14 15\n-1 33 12 -3 -5\nCorrect output:\n\
+    8 11 14 15 33 12\n\n\nYour code output:\n\n\nError:\nException in thread \"main\"\
+    \ java.lang.ClassCastException: class java.util.stream.ReferencePipeline$2 cannot\
+    \ be cast to class java.lang.Integer (java.util.stream.ReferencePipeline$2 and\
+    \ java.lang.Integer are in module java.base of loader 'bootstrap')\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1540)\n\
+    \tat ConcatPositiveNumbersProblem.main(Main.java:25)\n"
+  time: Tue, 02 Nov 2021 17:34:41 UTC
+record: -1

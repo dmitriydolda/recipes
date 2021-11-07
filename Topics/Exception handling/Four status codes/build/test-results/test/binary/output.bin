@@ -1,0 +1,31 @@
+[1;31m
+Start test 1[0m
+
+)  .   ____          _            __ _ _
+* /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
++( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+, \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
++  '  |____| .__|_| |_|_| |_\__, | / / / /
+* =========|_|==============|___/=/_/_/_/
+, :: Spring Boot ::        (v2.3.1.RELEASE)
+
+˝2021-10-27 14:34:04.493  INFO 2580 --- [    Test worker] task.Main                                : Starting Main on DESKTOP-DSH34GV with PID 2580 (started by Dmitriy in C:\Users\Dmitriy\IdeaProjects\Recipes\Topics\Exception handling\Four status codes)
+•2021-10-27 14:34:04.497  INFO 2580 --- [    Test worker] task.Main                                : No active profile set, falling back to default profiles: default
+í2021-10-27 14:34:06.325  INFO 2580 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 28852 (http)
+~2021-10-27 14:34:06.339  INFO 2580 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+î2021-10-27 14:34:06.339  INFO 2580 --- [    Test worker] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+ó2021-10-27 14:34:06.465  INFO 2580 --- [    Test worker] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+§2021-10-27 14:34:06.465  INFO 2580 --- [    Test worker] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1873 ms
+õ2021-10-27 14:34:06.759  INFO 2580 --- [    Test worker] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+ö2021-10-27 14:34:07.087  INFO 2580 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+°2021-10-27 14:34:07.139  INFO 2580 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 28852 (http) with context path ''
+ô2021-10-27 14:34:07.153  INFO 2580 --- [    Test worker] task.Main                                : Started Main in 3.38 seconds (JVM running for 4.236)
+û2021-10-27 14:34:07.558  INFO 2580 --- [io-28852-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+ç2021-10-27 14:34:07.559  INFO 2580 --- [io-28852-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+Ö2021-10-27 14:34:07.568  INFO 2580 --- [io-28852-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+[1;31m
+Start test 2[0m
+[1;31m
+Start test 3[0m
+[1;31m
+Start test 4[0m
